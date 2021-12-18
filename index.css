@@ -1,0 +1,136 @@
+body{
+    background-color: rgb(36, 30, 30); 
+}
+.box{
+    text-align:center;
+}
+
+
+.fa{
+    color: rgb(226, 229, 226);
+}
+a{
+    border-bottom: 1px solid white;
+}
+.box-part1{
+    text-align:center;
+    background-color: orange;
+    margin: 20px -15px 0px 0px;
+    padding: 30px 10px;
+}
+
+.box-part2{
+    text-align:center;
+    background-color: rgb(128, 23, 189);
+    margin: 20px 0px 10px -15px;
+    padding: 30px 10px;
+}
+
+.box1-part1{
+    text-align:center;
+    background-color: rgb(51, 199, 5);
+    margin: 10px -15px -10px -15px;
+    padding: 0px 10px 0px 0px;
+}
+
+
+
+
+
+.text1{
+    margin:60px 0px;
+
+}
+
+
+.text2{
+    margin:60px 0px;
+
+}
+
+.text3{
+    margin:120px 10px;
+
+}
+.box{
+    padding: 60px 100px 60px 0px;
+}
+
+
+.box{
+
+    background-color:rgb(211, 25, 56);
+    padding:60px 80px 100px 100px;
+    margin:200px 200px 200px 200px;
+    font-style:normal;
+    font-weight: 400;
+}
+.box1{
+    background-color:rgb(211, 25, 56);
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+    font-style:normal;
+    font-weight: 400;
+}
+
+
+.box2{
+    background-color:rgb(211, 25, 56);
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+    font-style:normal;
+    font-weight: 400;
+}
+/* box no3 */
+
+
+.box2-part2{
+    text-align:center;
+    background-color: rgb(51, 199, 5);
+    margin: 10px -15px -10px -15px;
+    padding: 0px 10px 0px 0px;
+}
+
+.box2-part2{
+    text-align:center;
+    background-color: rgb(44, 15, 124);
+    margin: 20px -35px  -75px -15px;
+    padding: 0px 25px 0px 10px;
+}
+/* box no:4 */
+.box3{
+    background-color:rgb(211, 25, 56);
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+    font-style:normal;
+    font-weight: 400;
+}
+
+.box3-part3{
+    text-align:center;
+    background-color: orange;
+    margin: 90px -20px 60px -15px;
+    padding: 0px 0px 0px 0px;
+}
+
+.box3-part4{
+    text-align:center;
+    background-color: rgb(10, 126, 141);
+    margin: 90px -30px 0px -20px;
+    padding: 0px 10px 0px 0px;
+}
+/* bos no:5 */
+.box4{
+    background-color:rgb(156, 90, 101);
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+    font-style:normal;
+    font-weight: 400;
+}
+
+.box4-part5{
+    text-align:center;
+    background-color: rgb(10, 126, 141);
+    margin: 90px -30px 0px -20px;
+    padding: 0px 10px 0px 0px;
+}
